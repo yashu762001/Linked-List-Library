@@ -18,6 +18,8 @@ public class MyLinkedList {
 	    	  }
 	    	
 	    }
+	
+	// Everything is declared public just to ensure that everyone can use these functions else only i would be able to use them if declared private.
 	    
 	    public void print() {
 	    	
